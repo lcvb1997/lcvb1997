@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **lcvb1997/lcvb1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
